@@ -1,6 +1,6 @@
 # ToDoList-Estudando-JavaScript ✨
 
-Olá! Sou **[Seu Nome Aqui]** e este é o repositório do meu projeto ToDo List, desenvolvido para **estudar e aprofundar meus conhecimentos em JavaScript**.
+Olá! Sou **[Gustavo Rodrigues]** e este é o repositório do meu projeto ToDo List, desenvolvido para **estudar e aprofundar meus conhecimentos em JavaScript**.
 
 ---
 
